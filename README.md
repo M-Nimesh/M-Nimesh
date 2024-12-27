@@ -33,6 +33,22 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
 </p>
 
+### 🛠️ Technologies I Use
+
+- **Frontend Development**: React, HTML, CSS, JavaScript
+- **Backend Development**: Node.js, Express.js, Django, Flask
+- **Database Management**: MongoDB, MySQL, PostgreSQL
+- **Version Control**: Git, GitHub
+- **Cloud Services**: AWS, Heroku, Firebase
+- **CI/CD**: GitHub Actions, Jenkins
+- **Containerization**: Docker, Kubernetes
+
+### 🧑‍💻 Projects
+
+- [Project 1: E-commerce Website](https://github.com/M1nimesh/e-commerce-website) - A full-stack e-commerce application built with React, Node.js, and MongoDB.
+- [Project 2: Chat Application](https://github.com/M1nimesh/chat-application) - A real-time chat application using WebSocket, Node.js, and Express.
+- [Project 3: Portfolio Website](https://github.com/M1nimesh/portfolio-website) - My personal portfolio website showcasing my skills and projects.
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -59,12 +75,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1nimesh&theme=redical" alt="GitHub Activity Graph" />
 </p>
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Post 1](https://yourblog.com/post1)
-- [Post 2](https://yourblog.com/post2)
-- [Post 3](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
+### 📝 Latest Projects
+<!-- PROJECT-LIST:START -->
+- [Project 1](https://github.com/M1nimesh/project1)
+- [Project 2](https://github.com/M1nimesh/project2)
+- [Project 3](https://github.com/M1nimesh/project3)
+<!-- PROJECT-LIST:END -->
 
 ### 📊 Usage Chart
 <p align="center">
