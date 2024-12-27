@@ -44,11 +44,16 @@
 - **Containerization**: Docker, Kubernetes
 
 ### 🧑‍💻 Projects
-
+  <!--
 - [Project 1: E-commerce Website](https://github.com/M1nimesh/e-commerce-website) - A full-stack e-commerce application built with React, Node.js, and MongoDB.
 - [Project 2: Chat Application](https://github.com/M1nimesh/chat-application) - A real-time chat application using WebSocket, Node.js, and Express.
 - [Project 3: Portfolio Website](https://github.com/M1nimesh/portfolio-website) - My personal portfolio website showcasing my skills and projects.
+  -->
+  <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/lines=Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Things;Coming+Soon&center=true&width=380&height=45">
+  </p>
 
+  
 ### 📊 GitHub Stats
 
 <p align="center">
