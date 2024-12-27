@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://www.facebook.com/YourFacebook"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
-  <a href="https://wa.me/YourWhatsAppNumber"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
+  <a href="https://wa.me/94779442063"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
 </p>
 
 ### 🚀 About Me
