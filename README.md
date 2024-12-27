@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedIn"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-  <a href="https://twitter.com/YourTwitter"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+  <a href="https://www.facebook.com/YourFacebook"><img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"></a>
+  <a href="https://wa.me/YourWhatsAppNumber"><img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"></a>
 </p>
 
 ### 🚀 About Me
@@ -56,7 +56,7 @@
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=M1nimesh&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=M1nimesh&theme=redical" alt="GitHub Activity Graph" />
 </p>
 
 ### 📝 Latest Blog Posts
@@ -67,7 +67,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 Usage Chart
-![Usage Chart](https://github-readme-stats.vercel.app/api?username=M1nimesh&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M1nimesh&show_icons=true&theme=radical" alt="Usage Chart" />
+</p>
 
 ---
 
