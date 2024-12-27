@@ -49,9 +49,7 @@
 - [Project 2: Chat Application](https://github.com/M1nimesh/chat-application) - A real-time chat application using WebSocket, Node.js, and Express.
 - [Project 3: Portfolio Website](https://github.com/M1nimesh/portfolio-website) - My personal portfolio website showcasing my skills and projects.
   -->
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/lines=Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Things;Coming+Soon&center=true&width=380&height=45">
-  </p>
+ *COMING SOON.....*
 
   
 ### 📊 GitHub Stats
