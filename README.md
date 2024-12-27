@@ -49,6 +49,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=M1nimesh&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
+### 🌟 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1nimesh&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=M1nimesh&theme=redical" alt="GitHub Activity Graph" />
+</p>
+
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Post 1](https://yourblog.com/post1)
+- [Post 2](https://yourblog.com/post2)
+- [Post 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+### 📊 Usage Chart
+![Usage Chart](https://github-readme-stats.vercel.app/api?username=M1nimesh&show_icons=true&theme=radical)
+
 ---
 
 <p align="center">
