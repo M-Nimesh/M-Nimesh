@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm @M1nimesh!</h1>
+<h1 align="center">👋 Hello, I'm @M-Nimesh!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Things&center=true&width=380&height=45">
