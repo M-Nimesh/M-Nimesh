@@ -55,27 +55,27 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1nimesh&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Nimesh&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1nimesh&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Nimesh&theme=radical" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M1nimesh&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=M-Nimesh&theme=darkhub&no-frame=true&row=1" alt="GitHub Trophies" />
 </p>
 
 ### 🌟 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M1nimesh&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Nimesh&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M1nimesh&theme=redical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-Nimesh&theme=redical" alt="GitHub Activity Graph" />
 </p>
 
 ### 📝 Latest Projects
@@ -87,13 +87,13 @@
 
 ### 📊 Usage Chart
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M1nimesh&show_icons=true&theme=radical" alt="Usage Chart" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Nimesh&show_icons=true&theme=radical" alt="Usage Chart" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=M1nimesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=M-Nimesh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <h3 align="center">Thanks for visiting! 😊</h3>
