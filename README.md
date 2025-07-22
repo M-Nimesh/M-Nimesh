@@ -1,12 +1,13 @@
 <h1 align="center">👋 Hello, I'm @M-Nimesh!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Passionate+Programmer;Always+Learning+New+Things;Future+Ready+Tech+Enthusiast&center=true&width=420&height=45">
 </p>
 
 ### ⏰ Current UTC Time
 <p align="center">
-  <img src="https://img.shields.io/badge/Current%20UTC%20Time-2024--12--27%2007:07:38-blue">
+  <!-- Dynamically updating UTC time (replace the value below as needed) -->
+  <img src="https://img.shields.io/badge/Current%20UTC%20Time-2025--07--22%2015:00:41-blue">
 </p>
 
 <p align="center">
@@ -16,40 +17,78 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on innovative projects
-- 💬 Ask me about programming and technology
-- ⚡ Fun fact: I love coding and exploring new tech!
+- 🔭 Currently working on future-ready and innovative tech projects
+- 🌱 Learning cutting-edge technologies, AI, and cloud-native tools
+- 👯 Always open to collaborate on trending and impactful projects
+- 💬 Ask me about programming, cloud, or the latest in tech
+- ⚡ Fun fact: I love experimenting with new stacks and frameworks!
+
+---
 
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <!-- Current Stack -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <!-- C family -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <!-- TypeScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <!-- Angular -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" height="40"/>
+  <!-- Go -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+  <!-- Rust -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40"/>
+  <!-- Dart -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
+  <!-- Flutter -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
+  <!-- Kotlin -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
+  <!-- Swift -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
+  <!-- PHP -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <!-- SQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <!-- Cloud -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="Heroku" width="40" height="40"/>
+  <!-- DevOps -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
 ### 🛠️ Technologies I Use
 
-- **Frontend Development**: React, HTML, CSS, JavaScript
-- **Backend Development**: Node.js, Express.js, Django, Flask
-- **Database Management**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Cloud Services**: AWS, Heroku, Firebase
-- **CI/CD**: GitHub Actions, Jenkins
-- **Containerization**: Docker, Kubernetes
+- **Frontend**: React, Angular, Flutter, HTML, CSS, JavaScript, TypeScript
+- **Backend**: Node.js, Express.js, Django, Flask, Go, Rust, PHP, Java, C#
+- **Database**: MongoDB, MySQL, PostgreSQL, Firebase, SQLite
+- **DevOps/CI/CD**: GitHub Actions, Jenkins, Docker, Kubernetes
+- **Cloud**: AWS, Heroku, Firebase
+- **Version Control**: Git, GitHub, GitLab
+- **Mobile**: Flutter, Dart, Kotlin, Swift
 
-### 🧑‍💻 Projects
-  <!--
-- [Project 1: E-commerce Website](https://github.com/M1nimesh/e-commerce-website) - A full-stack e-commerce application built with React, Node.js, and MongoDB.
-- [Project 2: Chat Application](https://github.com/M1nimesh/chat-application) - A real-time chat application using WebSocket, Node.js, and Express.
-- [Project 3: Portfolio Website](https://github.com/M1nimesh/portfolio-website) - My personal portfolio website showcasing my skills and projects.
-  -->
- *COMING SOON.....*
+---
+
+### 🧑‍💻 Featured Projects
+*COMING SOON.....*
 
   
 ### 📊 GitHub Stats
